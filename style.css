@@ -1,0 +1,42 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 10px 10px 10px gold;
+}
+
+.heading_div {
+    box-shadow: 10px 10px 10px gold;
+    float: none;
+    background-color: honeydew;
+    padding: 10px;
+    border-radius: 20px;
+    color: rebeccapurple;
+}
+
+.heading_div2 {
+    font-size: 20px;
+}
+
+.result_para_tag {
+    box-shadow: 10px 10px 10px gold;
+    font-size: 20px;
+    margin-right: 200px;
+}
+
+canvas {
+    border: 5px ridge grey;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px gold;
+    margin-top: 200px;
+}
+
+.footer {
+    position: fixed;
+    background-color: black;
+    color: gold;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+}
